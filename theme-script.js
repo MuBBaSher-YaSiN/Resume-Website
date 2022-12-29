@@ -5,10 +5,10 @@ themeIcon.onclick = function(){
 
     if(document.body.classList.contains("dark-theme"))
     {
-        themeIcon.src = "./assets/images/sun.png"
+        themeIcon.src = "./assets/images/moon.png"
     }
     else
     {
-        themeIcon.src = "./assets/images/moon.png"
+        themeIcon.src = "./assets/images/sun.png"
     }
 }
