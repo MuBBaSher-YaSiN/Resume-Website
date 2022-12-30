@@ -12,3 +12,4 @@ themeIcon.onclick = function(){
         themeIcon.src = "./assets/images/sun.png"
     }
 }
+
